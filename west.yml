@@ -7,7 +7,7 @@ manifest:
       remote: zephyrproject-rtos
       revision: v2.1.0
       import: true
-      path: zephyr_source
+      project-path-prefix: zephyr_source
 
   self:
     path: my-zephyr-app
